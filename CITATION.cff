@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: If you use this initial transcription, cite the version and the specific
+  canvas/segment identifiers. See LICENSE.md for material-specific rights.
+title: 同仁堂徵信錄：初錄 v0.1.0（含部分 AI 獨立校讀）
+type: dataset
+version: 0.1.0
+authors:
+- name: poplolioi11
+abstract: 'AI-assisted initial transcription of the 1837 edition, Bodleian Sinica
+  690. All 140 IIIF canvases have initial transcription; independent AI collation
+  is integrated for 41 canvases (c001–c034, c071, c115–c119, c138); 99 remain without
+  integrated independent review. Human/expert review not-run. Not a complete scholarly
+  edition. Fixed snapshot 2026-10-21T01:43:00Z; later collation is excluded. This
+  version DOI identifies the initial transcription with partial collation. Planned
+  source repository: https://github.com/poplolioi11/sinica-690-tongrentang-1837. Historical
+  compiler 同仁堂司事 is distinct from the modern editor. Images excluded.'
+keywords:
+- 同仁堂徵信錄
+- Sinica 690
+- '1837'
+- initial transcription
+doi: 10.5281/zenodo.23523642
+url: https://zenodo.org/records/23523642
+date-released: '2026-10-21'
