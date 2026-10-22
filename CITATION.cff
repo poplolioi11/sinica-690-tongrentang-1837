@@ -1,24 +1,26 @@
 cff-version: 1.2.0
-message: If you use this initial transcription, cite the version and the specific
-  canvas/segment identifiers. See LICENSE.md for material-specific rights.
-title: 同仁堂徵信錄：初錄 v0.1.0（含部分 AI 獨立校讀）
+message: Cite this specific version and its canvas/segment IDs. The DOI was reserved
+  at package preparation; confirm publication and registration through the Zenodo
+  record. See LICENSE.md.
+title: 同仁堂徵信錄：全140幅 AI 校訂版 v0.2.0
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - name: poplolioi11
-abstract: 'AI-assisted initial transcription of the 1837 edition, Bodleian Sinica
-  690. All 140 IIIF canvases have initial transcription; independent AI collation
-  is integrated for 41 canvases (c001–c034, c071, c115–c119, c138); 99 remain without
-  integrated independent review. Human/expert review not-run. Not a complete scholarly
-  edition. Fixed snapshot 2026-10-21T01:43:00Z; later collation is excluded. This
-  version DOI identifies the initial transcription with partial collation. Planned
-  source repository: https://github.com/poplolioi11/sinica-690-tongrentang-1837. Historical
-  compiler 同仁堂司事 is distinct from the modern editor. Images excluded.'
+url: https://zenodo.org/records/23524909
+abstract: AI-collated edition of the 1837 text, Bodleian Sinica 690. All 140 IIIF
+  canvases have initial transcription, independent source-first reading, comparison
+  and source adjudication. Human/expert review not-run. Unresolved readings and unknown
+  extents remain explicit. Modern punctuation is unreviewed and limited to the listed
+  c005–c021 units. Fixed editorial snapshot 2026-10-21T04:26:15.997888+00:00. The
+  version DOI was reserved at package preparation; registration takes effect on Zenodo
+  publication, and the record provides the actual publication and registration status.
+  Historical compiler 同仁堂司事 is distinct from the modern editor. Images excluded.
 keywords:
 - 同仁堂徵信錄
 - Sinica 690
 - '1837'
-- initial transcription
-doi: 10.5281/zenodo.23523642
-url: https://zenodo.org/records/23523642
-date-released: '2026-10-21'
+- AI collation
+- unresolved readings
+doi: 10.5281/zenodo.23524909
+date-released: '2026-10-22'
