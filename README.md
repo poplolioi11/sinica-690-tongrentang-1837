@@ -1,10 +1,17 @@
-# 同仁堂徵信錄 — 全140幅 AI 校訂版 v0.2.0
+# 同仁堂徵信錄（1837；Bodleian Sinica 690）/ Tong ren tang zheng xin lu: Transcription dataset
 
 ## 摘要 / Abstract
 
-本資料集以牛津大學Bodleian Libraries藏Sinica 690、清道光十七年（1837）《同仁堂徵信錄》原圖為底本，提供全140幅的AI校訂資料，供清代慈善史料定位、檢索與後續校訂。v0.2.0完成初錄、獨立AI來源讀錄、逐段比較及回圖裁定，保留原字、單元ID、欄序、讀序、疑字候選、未知長度缺損與訂正歷史；公開JSON、TXT、TEI及相關紀錄。人工及專家覆核尚未執行，有限標點層亦未獨立覆核，故不構成人工學術定本或已測量逐字準確率的版本。
+《同仁堂徵信錄》是上海慈善組織同仁堂於1837年編刊的徵信文獻，載恤嫠、贍老、施棺、義塚、擔水濟急章程及捐輸、租賃與收支，可供清代城市慈善、救濟治理和慈善財產研究。本資料依Bodleian Libraries藏Sinica 690，提供全140幅來源影像的AI校讀文字及JSON、TXT、TEI，保留原字、欄序、讀序、穩定單元、疑字和訂正紀錄。本版為保留疑字的AI校讀資料，未經人類或專家校勘，有限標點層仍未獨立覆核。
 
-This dataset provides AI-corrected transcription data for all 140 images of Bodleian Libraries Sinica 690, the 1837 《同仁堂徵信錄》, for locating, retrieving and further correcting historical charity records. Version 0.2.0 completes initial transcription, independent AI source reading, passage comparison and source-image adjudication. Public JSON, TXT, TEI and supporting records retain original characters, unit IDs, column and reading order, uncertain candidates, unknown-length damage and revision history. Human and expert review have not been performed, and the limited punctuation layer remains independently unreviewed. This is therefore not a human-reviewed scholarly definitive edition or a version with measured character accuracy.
+Tong ren tang zheng xin lu is an 1837 accountability register of Shanghai’s Tongrentang charity, recording relief rules, donations, rents and accounts for widow and elderly support, coffins, charitable burial and emergency water provision. It supports research on Qing urban charity, relief governance and charitable property. Using Bodleian Libraries Sinica 690, this dataset provides AI-collated text for all 140 source images in JSON, TXT and TEI, retaining original characters, column and reading order, stable units, uncertainties and revision history. This AI-collated version retains uncertainties, has not undergone human or expert collation, and includes a limited punctuation layer that remains independently unreviewed.
+
+原件與書目入口 / Source witness and catalogue:
+
+- [館藏書目 / Catalogue](https://east-asian.bodleian.ox.ac.uk/catalog/volume_5977)
+- [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/8c7b5553-81f3-43b5-9d58-e8a61509e6fb/)
+- [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/8c7b5553-81f3-43b5-9d58-e8a61509e6fb.json)
+- [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml)
 
 1837年本堂編刊本，Bodleian Libraries, University of Oxford 藏 Sinica 690。全140幅來源畫布均有初錄及獨立AI來源讀錄、逐段比較與影像裁定；human/expert review: not-run。這是 AI 輔助校訂成果，仍保留疑字候選，未經人類專家覆核，不能視為人工學術定本。歷史編者同仁堂司事與現代編輯 poplolioi11 身份不同；館藏不表示館方背書。
 
