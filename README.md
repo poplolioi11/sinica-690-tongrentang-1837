@@ -1,5 +1,11 @@
 # 同仁堂徵信錄 — 全140幅 AI 校訂版 v0.2.0
 
+## 摘要 / Abstract
+
+本資料集以牛津大學Bodleian Libraries藏Sinica 690、清道光十七年（1837）《同仁堂徵信錄》原圖為底本，提供全140幅的AI校訂資料，供清代慈善史料定位、檢索與後續校訂。v0.2.0完成初錄、獨立AI來源讀錄、逐段比較及回圖裁定，保留原字、單元ID、欄序、讀序、疑字候選、未知長度缺損與訂正歷史；公開JSON、TXT、TEI及相關紀錄。人工及專家覆核尚未執行，有限標點層亦未獨立覆核，故不構成人工學術定本或已測量逐字準確率的版本。
+
+This dataset provides AI-corrected transcription data for all 140 images of Bodleian Libraries Sinica 690, the 1837 《同仁堂徵信錄》, for locating, retrieving and further correcting historical charity records. Version 0.2.0 completes initial transcription, independent AI source reading, passage comparison and source-image adjudication. Public JSON, TXT, TEI and supporting records retain original characters, unit IDs, column and reading order, uncertain candidates, unknown-length damage and revision history. Human and expert review have not been performed, and the limited punctuation layer remains independently unreviewed. This is therefore not a human-reviewed scholarly definitive edition or a version with measured character accuracy.
+
 1837年本堂編刊本，Bodleian Libraries, University of Oxford 藏 Sinica 690。全140幅來源畫布均有初錄及獨立AI來源讀錄、逐段比較與影像裁定；human/expert review: not-run。這是 AI 輔助校訂成果，仍保留疑字候選，未經人類專家覆核，不能視為人工學術定本。歷史編者同仁堂司事與現代編輯 poplolioi11 身份不同；館藏不表示館方背書。
 
 範圍為140個IIIF canvases，包括封面、襯頁、空白及正文，不等於140葉。本次固定快照：`2026-10-21T04:26:15.997888+00:00`。保留1518個單元、4144個segments、570筆UNC及947筆REV。校讀覆蓋率不是逐字準確率，兩次一致亦不是字形證據。
