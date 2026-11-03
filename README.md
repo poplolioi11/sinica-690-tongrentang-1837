@@ -1,4 +1,4 @@
-# 同仁堂徵信錄（1837；Bodleian Sinica 690）/ Tong ren tang zheng xin lu: Transcription dataset
+# 同仁堂徵信錄(1837;Bodleian Sinica 690) / Tong ren tang zheng xin lu [Accountability register of the Tongrentang charity]: Transcription dataset
 
 ## 摘要 / Abstract
 
@@ -12,6 +12,18 @@ Tong ren tang zheng xin lu is an 1837 accountability register of Shanghai’s To
 - [原件／影像來源 / Source witness](https://digital.bodleian.ox.ac.uk/objects/8c7b5553-81f3-43b5-9d58-e8a61509e6fb/)
 - [IIIF manifest](https://iiif.bodleian.ox.ac.uk/iiif/manifest/8c7b5553-81f3-43b5-9d58-e8a61509e6fb.json)
 - [館方固定書目 XML / Fixed official catalogue XML](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml)
+
+### 題名與語言說明 / Title and language notes
+
+方括號英譯為編者意譯，非館目正式題名。Bracketed English titles are editorial discovery glosses, not official catalogue English titles.
+
+館目原羅馬字題名：「tong ren tang zheng xin lu」。展示：「Tong ren tang zheng xin lu」；僅首字母大小寫依展示規則調整，保留館目拼法及長音符號。
+
+題名來源 / Title source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml)
+
+語言層次 / Language layers: 原文依有限公開非操作性文字證據標 lzh，屬編者語體分類，未經全書專家審定。 eng 標記現行英文摘要，不表示固定封存附件全部為英文。 館目原語言代碼 chi 保留作來源資訊，不與本文語體分類混同。
+
+語言來源 / Language source: [https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml](https://github.com/bodleian/east-asian-mss/blob/c177d5a6db8585168b744d38a6bff02186d1968f/collections/chinese/Sinica%20690.xml)
 
 1837年本堂編刊本，Bodleian Libraries, University of Oxford 藏 Sinica 690。全140幅來源畫布均有初錄及獨立AI來源讀錄、逐段比較與影像裁定；human/expert review: not-run。這是 AI 輔助校訂成果，仍保留疑字候選，未經人類專家覆核，不能視為人工學術定本。歷史編者同仁堂司事與現代編輯 poplolioi11 身份不同；館藏不表示館方背書。
 
