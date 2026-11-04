@@ -2,11 +2,14 @@ cff-version: 1.2.0
 message: Cite this specific version and its canvas/segment IDs. The DOI was reserved
   at package preparation; confirm publication and registration through the Zenodo
   record. See LICENSE.md.
-title: 同仁堂徵信錄：全140幅 AI 校訂版 v0.2.0
+title: "同仁堂徵信錄(1837;Bodleian Sinica 690) / Tong ren tang zheng xin lu [Accountability register of the Tongrentang charity]: Transcription dataset"
 type: dataset
 version: 0.2.0
 authors:
-- name: poplolioi11
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: https://orcid.org/0009-0003-9738-6914
+    website: https://github.com/poplolioi11
 url: https://zenodo.org/records/23524909
 abstract: AI-collated edition of the 1837 text, Bodleian Sinica 690. All 140 IIIF
   canvases have initial transcription, independent source-first reading, comparison
