@@ -47037,6 +47037,106 @@
       },
       "reason": "右灰四擔；左葬於川沙二十二保，保前先二、十、再二，第一二可見兩橫。保後上部為兩豎與橫筆的緊縮數字形（盲稿暫讀廿）；下方右三、左四可分，末圖。卄／廿的字形與分界仍不足穩定決定，將該上部數字範圍保留□ extent unknown；只保留可識別的右三後左四，不擴寫成兩個完整圖號。",
       "review_basis": "AI source reading; present coverage declared separately; human/expert review not-run"
+    },
+    {
+      "id": "REV-0948",
+      "date": "2026-11-12",
+      "target": "UKA02-c133-u03-s3",
+      "type": "post_publication_source_correction",
+      "old_value": "二",
+      "new_value": "一",
+      "reason": "百上只有一條連續橫畫；上下留白中沒有第二橫。不以帳數推字。",
+      "review_basis": {
+        "scope": "nonblind targeted source review",
+        "version": "0.2.1",
+        "base_version": "0.2.0",
+        "range_in_unit": {
+          "start": 11,
+          "end": 12,
+          "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+        },
+        "segment_range": {
+          "start": 3,
+          "end": 4
+        },
+        "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+        "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+      }
+    },
+    {
+      "id": "REV-0949",
+      "date": "2026-11-12",
+      "target": "UKA02-c133-u04-s3",
+      "type": "post_publication_source_correction",
+      "old_value": "六",
+      "new_value": "八",
+      "reason": "百下目標字只有分開的兩斜筆，沒有六上部點與橫；同欄後一六仍可辨點橫，未全欄換字。",
+      "review_basis": {
+        "scope": "nonblind targeted source review",
+        "version": "0.2.1",
+        "base_version": "0.2.0",
+        "range_in_unit": {
+          "start": 15,
+          "end": 16,
+          "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+        },
+        "segment_range": {
+          "start": 7,
+          "end": 8
+        },
+        "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+        "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+      }
+    },
+    {
+      "id": "REV-0950",
+      "date": "2026-11-12",
+      "target": "UKA02-c133-u10-s3",
+      "type": "post_publication_source_correction",
+      "old_value": "二",
+      "new_value": "一",
+      "reason": "零下、百上只有一條連續橫畫，不見二的第二橫；本欄前段二百的二仍清楚有二橫。",
+      "review_basis": {
+        "scope": "nonblind targeted source review",
+        "version": "0.2.1",
+        "base_version": "0.2.0",
+        "range_in_unit": {
+          "start": 16,
+          "end": 17,
+          "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+        },
+        "segment_range": {
+          "start": 9,
+          "end": 10
+        },
+        "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+        "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+      }
+    },
+    {
+      "id": "REV-0951",
+      "date": "2026-11-12",
+      "target": "UKA02-c136-u02-s3",
+      "type": "post_publication_source_correction",
+      "old_value": "六",
+      "new_value": "八",
+      "reason": "末段百下為分離八形兩斜筆，無六上部點橫；本欄前段六的點橫完整可作本欄對照。",
+      "review_basis": {
+        "scope": "nonblind targeted source review",
+        "version": "0.2.1",
+        "base_version": "0.2.0",
+        "range_in_unit": {
+          "start": 18,
+          "end": 19,
+          "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+        },
+        "segment_range": {
+          "start": 11,
+          "end": 12
+        },
+        "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/343bc5c2-c248-42a7-9e06-d00c073a48ba/full/full/0/default.jpg",
+        "source_sha256": "45e6d1a07ac31ed7055701e1549719c46ebad37363e5829011a04b06f4ca829b"
+      }
     }
   ],
   "schema": "atd-revisions/0.2",

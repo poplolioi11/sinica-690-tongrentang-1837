@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sinica 690 transcription structure; source reading is verified separately",
+  "type": "object",
+  "required": [
+    "schema",
+    "work_id",
+    "work",
+    "pages",
+    "publication"
+  ],
+  "properties": {
+    "schema": {
+      "const": "atd-transcription/0.2"
+    },
+    "work_id": {
+      "type": "string"
+    },
+    "work": {
+      "type": "object"
+    },
+    "publication": {
+      "type": "object"
+    },
+    "pages": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "page_id",
+          "canvas_index",
+          "units"
+        ],
+        "properties": {
+          "page_id": {
+            "type": "string"
+          },
+          "canvas_index": {
+            "type": "integer"
+          },
+          "units": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "unit_id",
+                "text_linear",
+                "segments"
+              ],
+              "properties": {
+                "unit_id": {
+                  "type": "string"
+                },
+                "text_linear": {
+                  "type": "string"
+                },
+                "segments": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "seg_id",
+                      "text"
+                    ],
+                    "properties": {
+                      "seg_id": {
+                        "type": "string"
+                      },
+                      "text": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

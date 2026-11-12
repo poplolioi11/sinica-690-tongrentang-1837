@@ -1,0 +1,40 @@
+{
+  "schema": "targeted-release-validation/1",
+  "version": "0.2.1",
+  "status": "passed-checks-not-release-approval",
+  "checks": {
+    "json-schema": "passed",
+    "all-unit-json-tei-readback": "passed",
+    "txt-unit-order-readback": "passed",
+    "tei-p5-rng-4.12.0": "passed",
+    "cff-1.2.0-schema": "passed",
+    "unchanged-source-index": "passed",
+    "only-reviewed-source-text-delta": "passed",
+    "fixed-base-directory-unchanged": "passed",
+    "text-publication-policy": "allowed-as-recorded; declaration check only, not legal certification",
+    "targeted-annotations": "valid-but-incomplete"
+  },
+  "counts": {
+    "source_pages": 140,
+    "units": 1518,
+    "codepoints": 22841,
+    "uncertainty_records": 570,
+    "targeted_occurrences": 13,
+    "corrected_codepoints": 4,
+    "retained_occurrences": 9
+  },
+  "not_run": [
+    "new-version remote publication",
+    "new DOI registration",
+    "ORCID synchronization",
+    "human or expert review"
+  ],
+  "quality_limit": "Structure and stored-range/readback checks do not certify source reading accuracy.",
+  "traceability": {
+    "status": "incomplete",
+    "pending_reasons": {
+      "unknown-model": 4
+    },
+    "limits": "Native model identity was not exposed and remains unknown. Unrelated inherited uncertainties are preserved without claiming new review."
+  }
+}

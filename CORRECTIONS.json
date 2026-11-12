@@ -1,0 +1,249 @@
+{
+  "schema": "targeted-public-corrections/1",
+  "version": "0.2.1",
+  "base_version": "0.2.0",
+  "base_doi": "10.5281/zenodo.23524909",
+  "review_date": "2026-11-12",
+  "proposal_count": 6,
+  "occurrence_count": 13,
+  "changed_codepoints": 4,
+  "retained_occurrences": 9,
+  "review_scope": "Targeted, non-blind source-image review of specified reader proposals. Candidates were exposed. No new full-book independent collation, human review, expert review, peer review or measured accuracy is claimed.",
+  "changes": [
+    {
+      "case_id": "reader-note-b1-01--UKA02-c133-u03",
+      "page_id": "UKA02-c133",
+      "unit_id": "UKA02-c133-u03",
+      "segment_id": "UKA02-c133-u03-s3",
+      "range": {
+        "start": 11,
+        "end": 12,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "二",
+      "proposed": "一",
+      "after": "一",
+      "decision": "adopted",
+      "reason": "百上只有一條連續橫畫；上下留白中沒有第二橫。不以帳數推字。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+      "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+    },
+    {
+      "case_id": "reader-note-b1-02--UKA02-c133-u04",
+      "page_id": "UKA02-c133",
+      "unit_id": "UKA02-c133-u04",
+      "segment_id": "UKA02-c133-u04-s3",
+      "range": {
+        "start": 15,
+        "end": 16,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "六",
+      "proposed": "八",
+      "after": "八",
+      "decision": "adopted",
+      "reason": "百下目標字只有分開的兩斜筆，沒有六上部點與橫；同欄後一六仍可辨點橫，未全欄換字。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+      "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+    },
+    {
+      "case_id": "reader-note-b1-03--UKA02-c133-u10",
+      "page_id": "UKA02-c133",
+      "unit_id": "UKA02-c133-u10",
+      "segment_id": "UKA02-c133-u10-s3",
+      "range": {
+        "start": 16,
+        "end": 17,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "二",
+      "proposed": "一",
+      "after": "一",
+      "decision": "adopted",
+      "reason": "零下、百上只有一條連續橫畫，不見二的第二橫；本欄前段二百的二仍清楚有二橫。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+      "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+    },
+    {
+      "case_id": "reader-note-b1-04--UKA02-c136-u02",
+      "page_id": "UKA02-c136",
+      "unit_id": "UKA02-c136-u02",
+      "segment_id": "UKA02-c136-u02-s3",
+      "range": {
+        "start": 18,
+        "end": 19,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "六",
+      "proposed": "八",
+      "after": "八",
+      "decision": "adopted",
+      "reason": "末段百下為分離八形兩斜筆，無六上部點橫；本欄前段六的點橫完整可作本欄對照。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/343bc5c2-c248-42a7-9e06-d00c073a48ba/full/full/0/default.jpg",
+      "source_sha256": "45e6d1a07ac31ed7055701e1549719c46ebad37363e5829011a04b06f4ca829b"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c023-u05",
+      "page_id": "UKA02-c023",
+      "unit_id": "UKA02-c023-u05",
+      "segment_id": "UKA02-c023-u05-s1",
+      "range": {
+        "start": 2,
+        "end": 3,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/ff845f95-967a-4c0b-9d13-f9ea0a1afa00/full/full/0/default.jpg",
+      "source_sha256": "fdb55ed92a6880be22e8b800889569614a0664e269ee1f5ad031667ff79935b8"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c131-u03",
+      "page_id": "UKA02-c131",
+      "unit_id": "UKA02-c131-u03",
+      "segment_id": "UKA02-c131-u03-s1",
+      "range": {
+        "start": 1,
+        "end": 2,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8916fdc9-ddfc-4ffd-adc3-0882ab6c9507/full/full/0/default.jpg",
+      "source_sha256": "05092b19f1ca1737c114dd2d442dbb2e2e71a56162cc141a0b910d09282ff95b"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c133-u05",
+      "page_id": "UKA02-c133",
+      "unit_id": "UKA02-c133-u05",
+      "segment_id": "UKA02-c133-u05-s2",
+      "range": {
+        "start": 9,
+        "end": 10,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+      "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c133-u06",
+      "page_id": "UKA02-c133",
+      "unit_id": "UKA02-c133-u06",
+      "segment_id": "UKA02-c133-u06-s2",
+      "range": {
+        "start": 9,
+        "end": 10,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1528f948-328a-471f-9988-19c8b6ea7766/full/full/0/default.jpg",
+      "source_sha256": "caa87ba65b2a5f8671aa7ba194dbf6e44a2806bd979362f459f4c149fa70e037"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c135-u04",
+      "page_id": "UKA02-c135",
+      "unit_id": "UKA02-c135-u04",
+      "segment_id": "UKA02-c135-u04-s1",
+      "range": {
+        "start": 3,
+        "end": 4,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a6c644a7-81ae-4848-bdf3-9c9b75b5f1f5/full/full/0/default.jpg",
+      "source_sha256": "99834f2af6fc0473dbeabe474ab37ab4449b568e71c3cea727e54a12958c9130"
+    },
+    {
+      "case_id": "reader-note-b1-06--UKA02-c135-u06",
+      "page_id": "UKA02-c135",
+      "unit_id": "UKA02-c135-u06",
+      "segment_id": "UKA02-c135-u06-s1",
+      "range": {
+        "start": 3,
+        "end": 4,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "婺",
+      "proposed": "嫠",
+      "after": "婺",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/a6c644a7-81ae-4848-bdf3-9c9b75b5f1f5/full/full/0/default.jpg",
+      "source_sha256": "99834f2af6fc0473dbeabe474ab37ab4449b568e71c3cea727e54a12958c9130"
+    },
+    {
+      "case_id": "reader-note-b1-07--UKA02-c025-u02",
+      "page_id": "UKA02-c025",
+      "unit_id": "UKA02-c025-u02",
+      "segment_id": "UKA02-c025-u02-s2",
+      "range": {
+        "start": 15,
+        "end": 16,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "交",
+      "proposed": "賣",
+      "after": "交",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "絶下本字具上點橫及下交叉撇捺，為交；無賣的罒、貝堆疊。忠實層保留絶交，文意問題另留讀者質詢。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3f33304e-c8b6-493b-a941-2bee433e5214/full/full/0/default.jpg",
+      "source_sha256": "92bc8ef8b8491a5b77c67e75e7cb08727a9c6f1d1d31e965861be44591c89928"
+    },
+    {
+      "case_id": "reader-note-b1-07--UKA02-c025-u05",
+      "page_id": "UKA02-c025",
+      "unit_id": "UKA02-c025-u05",
+      "segment_id": "UKA02-c025-u05-s1",
+      "range": {
+        "start": 24,
+        "end": 25,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "場",
+      "proposed": "塌",
+      "after": "場",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "坍後字左土，右側為上部日/昜形及下部斜筆鉤形，不見塌下部羽的兩組折筆；原有場碼位保留。局部字樣與塲的精確關係本輪未另作字典裁定，不因候選塌而自動正規化。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3f33304e-c8b6-493b-a941-2bee433e5214/full/full/0/default.jpg",
+      "source_sha256": "92bc8ef8b8491a5b77c67e75e7cb08727a9c6f1d1d31e965861be44591c89928"
+    },
+    {
+      "case_id": "reader-note-b1-07--UKA02-c025-u05",
+      "page_id": "UKA02-c025",
+      "unit_id": "UKA02-c025-u05",
+      "segment_id": "UKA02-c025-u05-s1",
+      "range": {
+        "start": 37,
+        "end": 38,
+        "counting": "zero-based Unicode code points in unit.text_linear, end-exclusive"
+      },
+      "before": "其",
+      "proposed": "共",
+      "after": "其",
+      "decision": "not-adopted-source-reading-retained",
+      "reason": "全下本字上部兩直筆間有成排短橫，下部長橫及分開兩腳，具其內部層次；不是共的中段留白。保留其。",
+      "source_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/3f33304e-c8b6-493b-a941-2bee433e5214/full/full/0/default.jpg",
+      "source_sha256": "92bc8ef8b8491a5b77c67e75e7cb08727a9c6f1d1d31e965861be44591c89928"
+    }
+  ],
+  "historical_corrections_file": "revisions.json"
+}

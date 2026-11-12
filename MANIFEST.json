@@ -1,0 +1,106 @@
+{
+  "version": "0.2.1",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 201,
+      "sha256": "89bbfd95978ba5e1ed846110dd6c2f53924cbec94fa5dbfad1cca73ef7057dd5"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1952,
+      "sha256": "301eafbb88f1f63e3b3b11a642e1a9d51dcb2a78cef5bda67ed764bbb9c8da47"
+    },
+    {
+      "path": "COLLATION.md",
+      "bytes": 3172,
+      "sha256": "444fc73991ba5364b245067aa6e1466f653292ba1a4915ab46265fd06db8f9d9"
+    },
+    {
+      "path": "CORRECTIONS.json",
+      "bytes": 11627,
+      "sha256": "c2258463367748dd0f20b709eed09e05f7d4826e2754852674f55edbacda4122"
+    },
+    {
+      "path": "CORRECTIONS.md",
+      "bytes": 4726,
+      "sha256": "219f19a9232421b9313326bdabf8c25b71806f0d04489a1d2c1db7d4e9af5974"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1165,
+      "sha256": "c73770883881ff9192c85a79645f053a1ea872eb47816f3bbcf32759cc0130d5"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 2973,
+      "sha256": "d9e6619d81c0d7e6c49fab2bfac22e0f4e495b11b29e9efc90807f3783452990"
+    },
+    {
+      "path": "PUBLIC-FILES.txt",
+      "bytes": 386,
+      "sha256": "1232a82bba4514d631fd2404d81f38c5c0d3f0118f41ed37a9e297c34852b4c7"
+    },
+    {
+      "path": "QUALITY-AND-CONTRIBUTIONS.md",
+      "bytes": 1125,
+      "sha256": "a5771d29b0741453588430a0a3f46985715a1c17fd9c15ddae8113f1293d09b3"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3739,
+      "sha256": "ee1e1c1dcb8daa21d6411bc591fe1c277d251239e2ef526abd3ef4ddc411b48e"
+    },
+    {
+      "path": "SCHEMA.json",
+      "bytes": 1875,
+      "sha256": "9c9ed0f5af122a8a575d14ef922f25e84adb7648f76d2c98573802e7f11747e6"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 1337,
+      "sha256": "78514035296dea2230baf5ece29c31645e21cfa0494f8ee4ab01927eda26dcd9"
+    },
+    {
+      "path": "revisions.json",
+      "bytes": 2056633,
+      "sha256": "3dc4555059be956d736ab9a1b6acf83d1440f01c197de5256ed246716f10bf6b"
+    },
+    {
+      "path": "source-index.json",
+      "bytes": 80404,
+      "sha256": "9090658701dad35a5913228ccbfc5b1098d63840ff0eb3e6708ebfcd2c757cc1"
+    },
+    {
+      "path": "transcription-diplomatic.txt",
+      "bytes": 65847,
+      "sha256": "5e0924cadc246f10fb73e773b90929f71a57c1544baf9dcd357787fc181f7832"
+    },
+    {
+      "path": "transcription-punctuated.json",
+      "bytes": 19227,
+      "sha256": "5f2db19226b763a6f46208ec2a7578dad2430c576276df3998ec91ced1c31c50"
+    },
+    {
+      "path": "transcription-punctuated.txt",
+      "bytes": 12193,
+      "sha256": "453bc9316c82e676200a73b1736f68305a52413544313170f66a05bcf153eeb8"
+    },
+    {
+      "path": "transcription.json",
+      "bytes": 2497433,
+      "sha256": "240ad43f94d6dcd0336996eef5c81c39b3cd85911d6e96498dea76571ee0cfd0"
+    },
+    {
+      "path": "transcription.tei.xml",
+      "bytes": 583939,
+      "sha256": "2e67ca1050fd2e394a331754235843691ce297e3a6473ade3dad4a8a819b33c0"
+    },
+    {
+      "path": "uncertainties.json",
+      "bytes": 960885,
+      "sha256": "41da64c19c332bd08b1acfefed6fb51a30970262e34539c1a6a939df38f0bfb2"
+    }
+  ],
+  "self_hash": "MANIFEST.json and SHA256SUMS excluded here to avoid circular digests; SHA256SUMS binds this manifest."
+}

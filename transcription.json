@@ -2,7 +2,7 @@
   "schema": "atd-transcription/0.2",
   "work_id": "sinica-690-tongrentang-1837",
   "candidate_id": "UKA02",
-  "dataset_state": "AI-collated edition v0.2.0; fixed full-140-canvas editorial snapshot; unresolved readings preserved; human/expert review not-run",
+  "dataset_state": "AI-collated edition v0.2.1; four targeted source-image corrections to the preserved v0.2.0 baseline; unresolved readings retained; human/expert review not-run",
   "generated_at_utc": "2026-10-21T04:26:15.997888+00:00",
   "work": {
     "title": "同仁堂徵信錄",
@@ -187,7 +187,18 @@
       140
     ],
     "unreviewed_canvases": [],
-    "human_expert_review": "not-run"
+    "human_expert_review": "not-run",
+    "targeted_review": {
+      "date": "2026-11-12",
+      "base_version": "0.2.0",
+      "proposal_count": 6,
+      "occurrence_count": 13,
+      "adopted_codepoints": 4,
+      "scope": "nonblind targeted source review; no new full-book independent collation",
+      "human_review": "not-run",
+      "expert_review": "not-run",
+      "accuracy_measured": false
+    }
   },
   "pages": [
     {
@@ -61711,14 +61722,14 @@
             {
               "seg_id": "UKA02-c133-u03-s3",
               "kind": "main",
-              "text": "共足錢二百二十五千零二十八文"
+              "text": "共足錢一百二十五千零二十八文"
             }
           ],
           "layout": "Vertical column read top to bottom; columns ordered right to left. Encoded space denotes visible blank, not a source glyph.",
           "transcription_status": "ai_initial",
           "review_status": "AI independent source comparison complete; unresolved preserved; human/expert not-run",
-          "text_linear": "一收各善信總捐　共足錢二百二十五千零二十八文",
-          "txt_line": "一收各善信總捐　共足錢二百二十五千零二十八文"
+          "text_linear": "一收各善信總捐　共足錢一百二十五千零二十八文",
+          "txt_line": "一收各善信總捐　共足錢一百二十五千零二十八文"
         },
         {
           "unit_id": "UKA02-c133-u04",
@@ -61741,14 +61752,14 @@
             {
               "seg_id": "UKA02-c133-u04-s3",
               "kind": "main",
-              "text": "共足錢一千一百六十五千六百文"
+              "text": "共足錢一千一百八十五千六百文"
             }
           ],
           "layout": "Vertical column read top to bottom; columns ordered right to left. Encoded space denotes visible blank, not a source glyph.",
           "transcription_status": "ai_initial",
           "review_status": "AI independent source comparison complete; unresolved preserved; human/expert not-run",
-          "text_linear": "一收各善信歲捐　共足錢一千一百六十五千六百文",
-          "txt_line": "一收各善信歲捐　共足錢一千一百六十五千六百文"
+          "text_linear": "一收各善信歲捐　共足錢一千一百八十五千六百文",
+          "txt_line": "一收各善信歲捐　共足錢一千一百八十五千六百文"
         },
         {
           "unit_id": "UKA02-c133-u05",
@@ -61935,14 +61946,14 @@
             {
               "seg_id": "UKA02-c133-u10-s3",
               "kind": "main",
-              "text": "共足錢二百五十千零二百八十六文"
+              "text": "共足錢二百五十千零一百八十六文"
             }
           ],
           "layout": "Vertical column read top to bottom; columns ordered right to left. Encoded space denotes visible blank, not a source glyph.",
           "transcription_status": "ai_initial",
           "review_status": "AI independent source comparison complete; unresolved preserved; human/expert not-run",
-          "text_linear": "一收布業提捐　共足錢二百五十千零二百八十六文",
-          "txt_line": "一收布業提捐　共足錢二百五十千零二百八十六文"
+          "text_linear": "一收布業提捐　共足錢二百五十千零一百八十六文",
+          "txt_line": "一收布業提捐　共足錢二百五十千零一百八十六文"
         },
         {
           "unit_id": "UKA02-c133-u11",
@@ -62857,14 +62868,14 @@
             {
               "seg_id": "UKA02-c136-u02-s3",
               "kind": "main",
-              "text": "共足錢七百六十八千三百六十一文"
+              "text": "共足錢七百六十八千三百八十一文"
             }
           ],
           "layout": "Vertical column read top to bottom; columns ordered right to left. Encoded space denotes visible blank, not a source glyph.",
           "transcription_status": "ai_initial",
           "review_status": "AI independent source comparison complete; unresolved preserved; human/expert not-run",
-          "text_linear": "一出代葬灰工　共足錢七百六十八千三百六十一文",
-          "txt_line": "一出代葬灰工　共足錢七百六十八千三百六十一文"
+          "text_linear": "一出代葬灰工　共足錢七百六十八千三百八十一文",
+          "txt_line": "一出代葬灰工　共足錢七百六十八千三百八十一文"
         },
         {
           "unit_id": "UKA02-c136-u03",
@@ -63720,22 +63731,47 @@
   "canvases_pending": [],
   "pending_canvases": [],
   "publication": {
-    "version": "0.2.0",
-    "version_date": "2026-10-22",
-    "status": "Fixed AI-collated edition prepared for linked Zenodo publication",
-    "doi": "10.5281/zenodo.23524909",
-    "doi_url": "https://doi.org/10.5281/zenodo.23524909",
-    "zenodo_record_url": "https://zenodo.org/records/23524909",
-    "version_doi_status": "reserved at package preparation",
-    "doi_registration": "Reserved at package preparation; registration takes effect on Zenodo publication. Check the Zenodo record for actual publication and registration status.",
+    "version": "0.2.1",
+    "version_date": "2026-11-12",
+    "status": "Review candidate; not yet published",
+    "doi": null,
+    "doi_url": null,
+    "zenodo_record_url": null,
+    "version_doi_status": "not-assigned",
+    "doi_registration": "No new version DOI assigned in this candidate.",
     "repository_url": "https://github.com/poplolioi11/sinica-690-tongrentang-1837",
-    "github_release_status": "not yet published at package preparation",
+    "github_release_status": "not-yet-published",
     "snapshot_at_utc": "2026-10-21T04:26:15.997888+00:00",
-    "version_scope": "All 140 IIIF canvases have initial transcription, independent AI source-first reading, full segment comparison and source adjudication. Unresolved readings and candidate readings remain explicit; human/expert review not-run. Modern punctuation remains unreviewed and covers only the listed c005–c021 units.",
+    "version_scope": "Preserved v0.2.0 whole-book text and prior collation status, with four source-supported corrections from non-blind targeted review of six reader proposals (13 occurrences). This revision does not add a new full-book independent collation.",
     "previous_version_reference": {
-      "version": "0.1.0",
-      "doi": "10.5281/zenodo.23523642",
-      "scope": "Initial edition: 140 initial canvases and 41 independently collated AI canvases. This DOI does not identify v0.2.0."
+      "version": "0.2.0",
+      "doi": "10.5281/zenodo.23524909",
+      "scope": "Fixed base edition; preserved unchanged as a citable prior version."
+    },
+    "prior_publication_metadata": {
+      "version": "0.2.0",
+      "version_date": "2026-10-22",
+      "status": "Fixed AI-collated edition prepared for linked Zenodo publication",
+      "doi": "10.5281/zenodo.23524909",
+      "doi_url": "https://doi.org/10.5281/zenodo.23524909",
+      "zenodo_record_url": "https://zenodo.org/records/23524909",
+      "version_doi_status": "reserved at package preparation",
+      "doi_registration": "Reserved at package preparation; registration takes effect on Zenodo publication. Check the Zenodo record for actual publication and registration status.",
+      "repository_url": "https://github.com/poplolioi11/sinica-690-tongrentang-1837",
+      "github_release_status": "not yet published at package preparation",
+      "snapshot_at_utc": "2026-10-21T04:26:15.997888+00:00",
+      "version_scope": "All 140 IIIF canvases have initial transcription, independent AI source-first reading, full segment comparison and source adjudication. Unresolved readings and candidate readings remain explicit; human/expert review not-run. Modern punctuation remains unreviewed and covers only the listed c005–c021 units.",
+      "previous_version_reference": {
+        "version": "0.1.0",
+        "doi": "10.5281/zenodo.23523642",
+        "scope": "Initial edition: 140 initial canvases and 41 independently collated AI canvases. This DOI does not identify v0.2.0."
+      }
+    },
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "name_zh": "曲宸宇",
+      "account": "poplolioi11",
+      "orcid": "0009-0003-9738-6914"
     }
   },
   "source_observations": [

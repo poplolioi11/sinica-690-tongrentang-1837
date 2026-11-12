@@ -1,29 +1,47 @@
 cff-version: 1.2.0
-message: Cite this specific version and its canvas/segment IDs. The DOI was reserved
-  at package preparation; confirm publication and registration through the Zenodo
-  record. See LICENSE.md.
-title: "同仁堂徵信錄(1837;Bodleian Sinica 690) / Tong ren tang zheng xin lu [Accountability register of the Tongrentang charity]: Transcription dataset"
+message: Cite the released fixed version and verify quotations against the official
+  source. Version 0.2.1 adds only the specified source-image corrections; see CORRECTIONS.md.
+title: '同仁堂徵信錄(1837;Bodleian Sinica 690) / Tong ren tang zheng xin lu [Accountability
+  register of the Tongrentang charity]: Transcription dataset'
 type: dataset
-version: 0.2.0
+version: 0.2.1
 authors:
-  - family-names: Chu
-    given-names: Chen-Yu
-    orcid: https://orcid.org/0009-0003-9738-6914
-    website: https://github.com/poplolioi11
-url: https://zenodo.org/records/23524909
-abstract: AI-collated edition of the 1837 text, Bodleian Sinica 690. All 140 IIIF
-  canvases have initial transcription, independent source-first reading, comparison
-  and source adjudication. Human/expert review not-run. Unresolved readings and unknown
-  extents remain explicit. Modern punctuation is unreviewed and limited to the listed
-  c005–c021 units. Fixed editorial snapshot 2026-10-21T04:26:15.997888+00:00. The
-  version DOI was reserved at package preparation; registration takes effect on Zenodo
-  publication, and the record provides the actual publication and registration status.
-  Historical compiler 同仁堂司事 is distinct from the modern editor. Images excluded.
+- family-names: Chu
+  given-names: Chen-Yu
+  orcid: https://orcid.org/0009-0003-9738-6914
+  website: https://github.com/poplolioi11
+url: https://github.com/poplolioi11/sinica-690-tongrentang-1837/releases/tag/v0.2.1
+abstract: Tong ren tang zheng xin lu is an 1837 accountability register of Shanghai’s
+  Tongrentang charity, recording relief rules, donations, rents and accounts for widow
+  and elderly support, coffins, charitable burial and emergency water provision. It
+  supports research on Qing urban charity, relief governance and charitable property.
+  Using Bodleian Libraries Sinica 690, this dataset provides AI-collated text for
+  all 140 source images in JSON, TXT and TEI, retaining original characters, column
+  and reading order, stable units, uncertainties and revision history. This AI-collated
+  version retains uncertainties, has not undergone human or expert collation, and
+  includes a limited punctuation layer that remains independently unreviewed. This
+  revision applies 4 source-supported character corrections following targeted non-blind
+  review of reader proposals; it is not a new full-book independent collation.
 keywords:
 - 同仁堂徵信錄
-- Sinica 690
+- 善堂
+- 慈善史
+- 社會救濟史
+- Chinese philanthropy
+- charitable associations
+- charitable accounting
+- donor registers
+- poor relief
+- burial charity
+- merchant philanthropy
+- Shanghai
+- Qing dynasty
 - '1837'
+- Sinica 690
+- digital humanities
+- TEI XML
 - AI collation
 - unresolved readings
-doi: 10.5281/zenodo.23524909
-date-released: '2026-10-22'
+license: CC-BY-4.0
+date-released: '2026-11-12'
+doi: 10.5281/zenodo.24156620

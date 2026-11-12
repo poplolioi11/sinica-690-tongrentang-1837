@@ -13,3 +13,7 @@ Human/expert review is not-run. Modern punctuation remains an unreviewed editori
 Historical limitations are retained. Annotation frames on c001/c002 differ from native JPEG frames and lack a verified mapping. Some older numeric regions lack a confirmed xywh/xyxy interpretation. Original p069 segment IDs map textually to canvas c071. For c065–c068, sixteen early proposal files were revised without retaining their preceding bytes; old hashes cannot reconstruct those missing versions, and reconstruction is not claimed. Frozen independent readings, the initial transcription baseline and source images were unaffected. This limits reconstruction of that early proposal history; it does not erase the final accepted source-comparison coverage.
 
 The initial-reader observations retained under `source_observations` are labelled as such and are not counted as additional independent readings. Prior source observations embedded in UNC/REV describe their historical editorial state; the named current segment and active UNC govern the current reading.
+
+## v0.2.1 targeted source review
+
+Targeted non-blind review only: 13 specified occurrences; 4 adopted character corrections; 9 source readings retained. Candidates were exposed. No new independent full-book reading, human/expert review or measured character accuracy is claimed. See CORRECTIONS.json.

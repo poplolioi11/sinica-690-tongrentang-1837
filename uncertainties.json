@@ -7991,6 +7991,17 @@
       },
       "revision_ids": [
         "REV-0414"
+      ],
+      "post_publication_reviews": [
+        {
+          "version": "0.2.1",
+          "date": "2026-11-12",
+          "decision": "retain-recorded-source-reading",
+          "recorded": "婺",
+          "alternative_not_adopted": "嫠",
+          "reason": "本處上部左側可見矛形的短橫、折鉤及斜筆，右為攵，下為女；沒有嫠左上未形及中間厂形的結構。各處分別核圖，保留本版婺字，不以其他十一處詞形統一。",
+          "scope": "nonblind targeted AI source review; historical status/candidates retained; no human/expert review"
+        }
       ]
     },
     {
